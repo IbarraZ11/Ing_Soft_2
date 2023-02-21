@@ -1,6 +1,7 @@
 # Subscription Mannager 
 
-## Información del proyecto 
+## Información del proyecto
+![subs logo](/subs.jpg "Loguito") 
 
 1. Cual es el objetivo del software
 2. Que problema o necesidad pretende resolver?
