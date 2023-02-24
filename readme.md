@@ -10,6 +10,7 @@
 3. Cual es el publico objetivo del softwate?
 	El publico objetivo son los jovenes, jovenes adultos y adultos quienes son los mas suceptibles a tener alguna subscripcion que deseen administrar.
 4. Quienes son los usuarios finales del software y cuales son sus necesidades?
+	El publico mayores de 18 años y deseamos solucionar la necesidad de la preocupacion del control de gastos y mostrar realmente en cuantos servicios estan consumiendo
 	
 5. Cuales son las funcionalidades que debe tener el software?
 	Calendario, reminders, BDD
