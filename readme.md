@@ -2,7 +2,8 @@
 
 ## Información del proyecto
 ![subs logo](/subs.jpg "Loguito") 
-
+![bpmn1](/BPMN1_proy.jpeg "BPMN Agregar Subscripcion") 
+![bpmn2](/BPMN2_proy.jpeg "BPMN Verificar Finanzas") 
 1. Cual es el objetivo del software
 	El objetivo del software es poder administrar las subscripciones de los usuarios, tales como Netflix, Spotify etc. que manden alertas dias previos del corte de la factura para poder realizar el pago a tiempo.
 2. Que problema o necesidad pretende resolver?
