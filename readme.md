@@ -45,7 +45,7 @@ Lenguaje de programación:
 Herramientas:
 	Android Studio, Trello
 Patron de diseño MVVM:
-![mvvm](/MVVM.jpg "MVVM") 
+![mvvm](/MVVM.jpeg "MVVM") 
 
 Arquitectura cliente servidor:
 ![server](/ClienteServidor.jpeg "server")
