@@ -36,3 +36,39 @@ El costo promedio en 2023 por tener la suscripción mensual de todas es de 736 p
 Durante el año 2020, 22 por ciento de las personas en México se suscribieron a cuatro plataformas de streaming.
 
 ![estadisticas](/estadisticas.jpg "Stats") 
+
+## Requisitos Técnicos
+Sistema Operativo del proyecto:
+	Android
+Lenguaje de programación:
+	Kotlin
+Herramientas:
+	Android Studio, Trello
+Patron de diseño MVVM:
+
+Arquitectura cliente servidor:
+
+Minima version de Android:
+	Android Oreo 8.1
+
+
+## Inversion a considerar 
+Equipo de computo: Un equipo con las siguientes caracteristicas cuesta alrededor de 15,000MXN
+-Procesador con 6 nucleos y 12 hilos
+-16 gb ram
+-GPU 4gb vram
+-Almacenamiento SSD M.2
+
+Con esto se podrá desarrolar con Android Studio, usando el emulador integrado para las vistas previas y asi poder programar sin ningun problema
+
+Licencia de desarrollo en Playstore:
+El costo actual para poder subir aplicaciones a la tienda de Android es de aproximadamente 440MXN (25USD), pago de una sola exhibicion para subir aplicaciones de por vida
+
+Costo de mano de obra
+
+Este proyecto está contemplado para completarse en 3 meses con un equipo de 2 desarrolladores, trabando un promedio de 20 horas por semana:
+
+20 * 12 = 240 horas totales
+El costo de puro sueldo seria 72000 y el costo del proyecto ya con licencias seria de 85000
+
+
