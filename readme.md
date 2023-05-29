@@ -19,3 +19,18 @@
 	Si, existen varios subscription mannagers en el mercado 
 8. Que hace este software sea diferente y mejor que los demas?
 	Se pretende integrar pagos automaticos para que el usuario pueda controlar y monitorear sus gastos, son pocas las aplicaciones en el mercado que tienen esta funcionalidad.
+	
+## Caracteristicas del proyecto 
+1. Registro y gestión de usuarios: Permite a los usuarios crear cuentas, iniciar sesión y gestionar su información personal, incluyendo detalles de pago y preferencias de suscripción.
+2. Catálogo de servicios: Proporciona un catálogo completo de los servicios o productos disponibles para suscripción, incluyendo descripciones, precios y condiciones asociadas.
+3. Gestión de suscripciones: Permite a los usuarios administrar sus suscripciones existentes, incluyendo la capacidad de cancelar, pausar, reactivar o modificar las suscripciones desde la aplicacion o proporcionar tutoriales para hacerlo según sea necesario.
+4. Recordatorios y notificaciones: Envía recordatorios y notificaciones a los usuarios sobre próximas renovaciones, pagos pendientes, cambios en los servicios suscritos o cualquier otra información relevante relacionada con sus suscripciones.
+5. Informes y análisis: Proporciona informes detallados y análisis sobre las suscripciones, incluyendo datos como la cantidad de suscripciones activas, ingresos generados, tasas de cancelación, tendencias de suscripción, entre otros. Esto puede ayudar a los administradores a tomar decisiones informadas y optimizar la estrategia de suscripción.
+
+## Datos estádisticos
+Netflix,HBOMax,Star+,Disney+ y Prime Video: 
+El costo promedio en 2023 por tener la suscripción mensual de todas es de 736 pesos, es decir, 8,832 anuales.
+
+Durante el año 2020, 22 por ciento de las personas en México se suscribieron a cuatro plataformas de streaming.
+
+![estadisticas](/estadisticas.jpg "Stats") 
