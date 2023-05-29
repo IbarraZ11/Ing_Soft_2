@@ -45,10 +45,10 @@ Lenguaje de programación:
 Herramientas:
 	Android Studio, Trello
 Patron de diseño MVVM:
-[mvvm](/MVVM0.jpg "MVVM") 
+![mvvm](/MVVM.jpg "MVVM") 
 
 Arquitectura cliente servidor:
-[server](/ClienteServidor.jpeg "server")
+![server](/ClienteServidor.jpeg "server")
 
 Minima version de Android:
 	Android Oreo 8.1
